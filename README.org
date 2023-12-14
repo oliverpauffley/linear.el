@@ -1,0 +1,3 @@
+#+title: linear.el
+
+Manager linear.app from emacs
